@@ -5,7 +5,7 @@ Proyecto del parcial final: análisis y diseño de un sistema de matrículas par
 ## Integrantes
 Andres Felipe Arboleda Parra
 
-**Curso:** [Nombre del curso] · **Docente:** [Nombre del docente] · **Fecha:** 11 de noviembre de 2026
+
 
 ## Descripción
 La FET maneja parte de sus matrículas de forma manual o en hojas de cálculo, lo que genera errores, demoras y poco control de los cupos. Este proyecto propone un sistema que permite:
