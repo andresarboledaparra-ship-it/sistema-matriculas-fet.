@@ -3,9 +3,7 @@
 Proyecto del parcial final: análisis y diseño de un sistema de matrículas para la Fundación Escuela Tecnológica de Neiva (FET).
 
 ## Integrantes
-- [Nombre completo 1]
-- [Nombre completo 2]
-- [Nombre completo 3]
+Andres Felipe Arboleda Parra
 
 **Curso:** [Nombre del curso] · **Docente:** [Nombre del docente] · **Fecha:** 11 de noviembre de 2026
 
